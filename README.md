@@ -1,5 +1,3 @@
-# Read Me
-
 ## Folder Contents
 * The codebase consists of both a Colab Jupyter Notebook and a python file for execution. Both give similar results, and the only reason to use Colab again was for faster prototyping and debugging using a GPU. Model has the model version saved using `torch.save(model.pt)`, Graphs has the graphs saved during execution, and Latex has the final latex submission. The console outputs are in the `Output.txt` file.
 
